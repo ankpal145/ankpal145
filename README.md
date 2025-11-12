@@ -58,24 +58,6 @@ Welcome to my GitHub profile! I'm **Ankur Pal**, a passionate Software Engineer 
 
 ---
 
-## Featured Projects 🚀
-
-### **🎓 Webwizards** | [GitHub](https://github.com/ankpal145/Webwizards)
-**Full-Stack EdTech Platform**
-- Built production-ready platform with React.js frontend, video streaming, and payment gateway
-- Implemented JWT authentication, role-based access, and course management system
-- Engineered scalable backend with MongoDB, Cloudinary CDN for video uploads, and analytics dashboard
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Cloudinary, Redux
-
-### **🛒 E-commerce Website** | [GitHub](https://github.com/ankpal145/ecommerce)
-**Full-Stack E-commerce Platform**
-- Developed responsive e-commerce platform with JWT authentication and Razorpay payment integration
-- Built dynamic cart, wishlist, and admin panel with product management and order processing
-- Implemented RESTful APIs with search, pagination, and recommendation system
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Razorpay, JWT
-
----
-
 ## Achievements & Recognition 🏆
 
 🥇 **LeetCode Rating: 1826** | Solved **600+ problems** | **World Rank 497** in weekly contest → [Profile](https://leetcode.com/u/ankur145/)  
