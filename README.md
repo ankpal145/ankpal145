@@ -1,110 +1,135 @@
-### <div align="center">I'm Ankur, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
-  
+# Hi there! 👋
 
-- 🔭 I’m currently working on [StudyNotion](https://github.com/ankpal145/Webwizards)  
-  
+Welcome to my GitHub profile! I'm **Ankur Pal**, a passionate Software Engineer and recent B.Tech graduate from **Motilal Nehru National Institute of Technology (MNNIT) Allahabad**. Here's a glimpse of what I bring to the table:
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+---
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+## About Me ℹ️
 
-<br/>  
+🎓 Graduated with a B.Tech degree in **Electronics and Communication Engineering** (CPI: 7.88/10)  
+💼 **1 year of production experience** at Zepto as **Control Team Pod Leader**  
+🚀 Owned and scaled **3 production microservices** serving **500+ locations** nationwide  
+⚡ Built distributed systems handling **50K+ orders/sec** with **99.9% uptime**  
+🏆 **LeetCode Rating: 1826** (Top 1% globally) | **600+ problems solved** | **World Rank 497** in weekly contest  
+🔥 Passionate about building **scalable, reliable systems** that make an impact
 
+---
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## Work Experience 💼
 
+### **Software Engineer I** @ Zepto (July 2024 - Present)
+- 🎯 **Control Team Pod Leader** owning 3 services: Beacon, Image Matching Interface, Admin Backend
+- 📊 Built **TV Portal real-time dashboard** with order stress calculation achieving **<1ms latency**
+- 🚀 Deployed **Grievance Enhancement system** reducing resolution time from **5 days to 8 hours**
+- 🔧 Implemented **OnePipeline CI/CD** with GitHub Actions, cutting deployment time by **60%**
+- 📈 Established monitoring with **Grafana & New Relic**, reducing production incidents by **40%**
 
+### **Software Engineer Intern** @ Zepto (January 2024 - July 2024)
+- 🌐 Built real-time communication using **WebSocket & Go**, eliminating **884K+ polling requests/min**
+- 🏗️ Engineered **multi-tenant Beacon microservice** delivering live updates, unified with **Kafka streaming**
+- ⚡ Scaled to **20K+ concurrent users** and achieved **99.9% uptime**
+- 🛡️ Boosted service reliability by **95%** through graceful shutdowns, panic recovery, and config validation
+- 🚀 Improved HRMS performance achieving **70% faster query response** through database optimization
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+## Technical Skills 🛠️
 
+### **Languages**
+💻 Go | C++ | Java | JavaScript | SQL | HTML | CSS
 
+### **Backend & Distributed Systems**
+🔧 Node.js | Express.js | Microservices Architecture | RESTful APIs | gRPC | WebSocket  
+📦 Message Queues: Kafka, Redis Pub/Sub  
+🗄️ Databases: MongoDB, PostgreSQL, Redis
 
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-</div>
+### **Frontend Development**
+⚛️ React.js | Redux | TailwindCSS | Responsive Design
 
-</td><td valign="top" width="33%">
+### **DevOps & Tools**
+🚀 GitHub Actions | Jenkins | ArgoCD | CI/CD Pipelines  
+📊 Monitoring: Grafana, New Relic  
+🔨 Tools: Postman, Goland, VS Code, pgAdmin
 
+### **Core Competencies**
+🏗️ Object-Oriented Design | Data Structures & Algorithms | Design Patterns  
+⚡ Performance Optimization | Test-Driven Development | Distributed Systems  
+📈 Low & High Level Design | Microservices Architecture
 
+---
 
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-</div>
+## Featured Projects 🚀
 
-</td></tr></table>  
+### **🎓 Webwizards** | [GitHub](https://github.com/ankpal145/Webwizards)
+**Full-Stack EdTech Platform**
+- Built production-ready platform with React.js frontend, video streaming, and payment gateway
+- Implemented JWT authentication, role-based access, and course management system
+- Engineered scalable backend with MongoDB, Cloudinary CDN for video uploads, and analytics dashboard
+- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Cloudinary, Redux
 
-<br/>  
+### **🛒 E-commerce Website** | [GitHub](https://github.com/ankpal145/ecommerce)
+**Full-Stack E-commerce Platform**
+- Developed responsive e-commerce platform with JWT authentication and Razorpay payment integration
+- Built dynamic cart, wishlist, and admin panel with product management and order processing
+- Implemented RESTful APIs with search, pagination, and recommendation system
+- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Razorpay, JWT
 
+---
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/ankpal145" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ankurpal1073/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+## Achievements & Recognition 🏆
 
-<br/>  
+🥇 **LeetCode Rating: 1826** | Solved **600+ problems** | **World Rank 497** in weekly contest → [Profile](https://leetcode.com/u/ankur145/)  
+🏅 Ranked among **Top 5 candidates** nationally in **NGPE (National Graduate Physics Examination)** by IAPT  
+🥇 **Ranked 1st** in CodeSpark Event at **Avishkar 2022**, MNNIT Allahabad  
+🎯 **Finalist** in InnoDev Event at **Avishkar 2024**, MNNIT Allahabad
 
+---
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ankpal145&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## What I'm Working On 🔭
 
-<br/>  
+🌱 Currently exploring **advanced distributed systems** and **low-latency system design**  
+💡 Building side projects focused on **real-time communication** and **microservices**  
+📚 Deepening knowledge in **system architecture**, **design patterns**, and **scalability**  
+🤝 Open to collaborating on **open-source projects** and **innovative tech solutions**
 
+---
 
-## Recent Blog Posts  
-  
+## GitHub Stats 📊
 
-<br/>  
+![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankpal145&show_icons=true&theme=radical&count_private=true)
 
-  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankpal145&layout=compact&theme=radical)
 
-<br/>  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankpal145&theme=radical)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ankpal145&&style=flat-square" align="center" />
-</div>  
-  
+---
 
-<br/>  
+## Let's Connect! 🤝
 
-<div align="center"></div>
-<br />
+I'm actively seeking opportunities where I can contribute to building impactful, scalable systems and grow as a software engineer. Feel free to reach out to discuss collaborations, projects, or anything tech-related!
+
+📧 **Email:** ankurpal14214@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/ankurpal1073](https://www.linkedin.com/in/ankurpal1073)  
+🐙 **GitHub:** [github.com/ankpal145](https://github.com/ankpal145)  
+💻 **LeetCode:** [leetcode.com/u/ankur145](https://leetcode.com/u/ankur145/)  
+📱 **Phone:** +91-7985713206
+
+---
+
+### 💬 Fun Facts About Me
+
+⚡ I love solving algorithmic challenges and participating in competitive programming  
+🎯 I believe in writing clean, maintainable code with comprehensive test coverage  
+🚀 I'm passionate about building systems that scale and deliver real user value  
+📖 Always learning and exploring new technologies and best practices
+
+---
+
+**Thank you for stopping by!** 😊  
+Looking forward to connecting with you! 🚀
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ankpal145&color=brightgreen)
+
 
